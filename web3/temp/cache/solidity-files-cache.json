@@ -1,0 +1,135 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/tungnh1999/Documents/freelancer/x-ai-main/web3/contracts/Mint.sol": {
+      "lastModificationDate": 1748793583312,
+      "contentHash": "5133aa08ed5c1dd4dd44be6726e5c535",
+      "sourceName": "contracts/Mint.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721Enumerable",
+        "IERC165",
+        "IERC20",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "IUniswapV2Router01",
+        "IUniswapV2Router02",
+        "Mint",
+        "Ownable",
+        "SafeMath",
+        "Strings"
+      ]
+    },
+    "/Users/tungnh1999/Documents/freelancer/x-ai-main/web3/contracts/Staking.sol": {
+      "lastModificationDate": 1748793583312,
+      "contentHash": "bc4832070714827852445eaf0b1082d2",
+      "sourceName": "contracts/Staking.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Context",
+        "IERC20",
+        "Ownable",
+        "ReentrancyGuard",
+        "Staking"
+      ]
+    },
+    "/Users/tungnh1999/Documents/freelancer/x-ai-main/web3/contracts/Token.sol": {
+      "lastModificationDate": 1748793583312,
+      "contentHash": "e55bb81f04d4eba4f5aee40bb56c8f9f",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IERC20Metadata",
+        "Token"
+      ]
+    }
+  }
+}
